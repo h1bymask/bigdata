@@ -62,7 +62,11 @@
         </tr>
         <tr>
             <td>
-                Форматы хранения больших данных и Spark
+                Форматы хранения
+                <br/>
+                больших данных
+                <br/>
+                и Spark
             </td>
             <td>
                 <a href="https://dmkpress.com/catalog/computer/data/978-5-97060-879-1/">
