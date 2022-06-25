@@ -207,6 +207,9 @@
             </td>
         </tr>
         <tr>
+            <td colspan="3">&nbsp;</td>
+        </tr>
+        <tr>
             <td colspan="3"><br/>Дополнительные материалы</td>
         </tr>
         <tr>
