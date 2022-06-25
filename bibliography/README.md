@@ -77,7 +77,7 @@
                 <a href="https://dmkpress.com/catalog/computer/data/978-5-97060-879-1/">
                     Перрен Ж.-Ж.
                     <br/>
-                    Spark в действии
+                    <b>Spark в действии</b>
                 </a>
             </td>
         </tr>
