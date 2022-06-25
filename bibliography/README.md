@@ -236,9 +236,9 @@
                 <details><summary>Лишние вопросы</summary>
                     <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/jlms/s1-9.2.126">Приближение дробномерных пространств</a>
                     <br/>
-                    <a href="https://www.ibm.com/analytics/us/en/Analytics-BigData.pdf">Больцано - большие данные</a>
-                    <br/>
-                    <a href="https://arxiv.org/pdf/1607.03390.pdf">Метод Ньютона для оценки схожести в анализе больших данных</a>
+                    <a href="https://www.ibm.com/analytics/us/en/Analytics-BigData.pdf">Большие данные Больцано</a>
+                    -
+                    <a href="https://arxiv.org/pdf/1607.03390.pdf">Ньютон - метод для оценки схожести</a>
                     <br/>
                     <a href="https://ieeexplore.ieee.org/document/7468484">Анализ больших данных WBS</a>, <a href="https://vijayaphanindra.medium.com/a-work-breakdown-structure-wbs-for-big-data-analytics-projects-part-1-db4c2a8179fd">графический интерфейс</a>
                     <br/>
