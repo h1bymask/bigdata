@@ -243,7 +243,7 @@
                     Piotr Indyk, Aristides Gionis; Rajeev Motwani. Similarity Search in High Dimensions via Hashing
                 </a>
                 <br/>
-                (для просмотра в Windows: <a href="https://epsviewer.org/download.aspx">EPS Viewer</a>, в iOS/Android/MacOS: https://www.docspal.com/viewer)
+                (просмотр в Windows: <a href="https://epsviewer.org/download.aspx">EPS Viewer</a>, в iOS/Android/MacOS: <a href="https://www.docspal.com/viewer">docspal.com/viewer</a>)
             </td>
         </tr>
         <tr>
@@ -252,7 +252,7 @@
                     Piotr Indyk, Rajeev Motwani. Approximate Nearest Neighbors: Towards Removing the Curse of Dimensionality
                 </a>
                 <br/>
-                (для просмотра в Windows: <a href="https://epsviewer.org/download.aspx">EPS Viewer</a>, в iOS/Android/MacOS: https://www.docspal.com/viewer)
+                (просмотр в Windows: <a href="https://epsviewer.org/download.aspx">EPS Viewer</a>, в iOS/Android/MacOS: <a href="https://www.docspal.com/viewer">docspal.com/viewer</a>)
             </td>
         </tr>
         <tr>
