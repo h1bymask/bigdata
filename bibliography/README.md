@@ -165,7 +165,7 @@
             <td></td>
             <td>
                 <a href="https://spark.apache.org/docs/latest/ml-features#locality-sensitive-hashing">
-                    Spark Programming Guides. MLlib: applying machine learning algorithms
+                    Spark Programming Guides. MLlib
                     <br/>
                     Locality Sensitive Hashing
                 </a>
