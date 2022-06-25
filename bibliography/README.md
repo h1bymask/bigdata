@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <th>Тема</th>
-            <th>Литература</th>
+            <th colspan="2">Литература</th>
         </tr>
     </thead>
     <tbody>
@@ -135,9 +135,9 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="4" colspan="2">Локально-чувствительное хеширование, ближайшие соседи</td>
+            <td rowspan="5" colspan="2">Локально-чувствительное хеширование, ближайшие соседи</td>
             <td style="height: 4em;">
-                <a href="http://keldysh.ru/abrau/2016/p/p8.ppt">
+                <a href="https://keldysh.ru/abrau/2016/p/p8.ppt">
                     В.А. Серебряков. Обзор алгоритмов локально-чувствительного хеширования (презентация)
                 </a>
             </td>
