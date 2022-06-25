@@ -40,7 +40,7 @@
                 <a href="https://www.piter.com/collection/kompyutery-i-internet/product/python-iskusstvennyy-intellekt-bolshie-dannye-i-oblachnye-vychisleniya">
                     Пол Дж. Дейтел, Харви М. Дейтел
                     <br/>
-                    Python: Искусственный интеллект, большие данные и облачные вычисления
+                    <b>Python: Искусственный интеллект, большие данные и облачные вычисления</b>
                 </a>
             </td>
         </tr>
@@ -122,7 +122,7 @@
                 <a href="https://dmkpress.com/catalog/computer/data/978-5-97060-190-7/">
                     Юри Лесковец, Ананд Раджараман, Дэвид Дж. Ульман
                     <br/>
-                    Анализ больших наборов данных
+                    <b>Анализ больших наборов данных</b>
                 </a>
             </td>
         </tr>
