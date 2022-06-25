@@ -72,7 +72,9 @@
                 <br/>
                 локально-чувствительного
                 <br/>
-                хеширования, MinHashLSH
+                хеширования, применение
+                <br/>
+                MinHashLSH
             </td>
             <td>
                 <a href="https://www.piter.com/product/effektivnyy-spark-masshtabirovanie-i-optimizatsiya">
@@ -120,7 +122,11 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="2">---//--- + BucketedRandomProjectionLSH</td>
+            <td rowspan="2">
+                ---//--- + применение
+                <br/>
+                BucketedRandomProjectionLSH
+            </td>
             <td>
                 <a href="https://www.oreilly.com/library/view/advanced-analytics-with/9781098103644/">
                     <img style="width: 70px; height: auto;" src="https://learning.oreilly.com/library/cover/9781098103644/250w/">
