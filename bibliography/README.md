@@ -182,6 +182,8 @@
                 <a href="https://alphacephei.com/ru/lecture2.pdf">
                     Alpha Cephei Speech Recognition Research. Схема обоняния фруктовой мухи, как новый вид локально-чувствительного хеширования
                 </a>
+                <br/>
+                Хеширование и локально-чувствительное хеширование (LSH) - страницы 1-3
             </td>
         </tr>
         <tr>
