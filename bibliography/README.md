@@ -172,6 +172,41 @@
             </td>
         </tr>
         <tr>
+            <td rowspan="2">
+                Снижение размерности
+                <br/>
+                и случайная проекция
+            </td>
+            <td>
+                <a href="https://dmkpress.com/catalog/computer/data/978-5-97060-673-5/">
+                    <img style="width: 70px; height: auto;" src="https://dmkpress.com/images/cms/thumbs/a5b0aeaa3fa7d6e58d75710c18673bd7ec6d5f6d/978-5-97060-673-5_270_369_jpg__100.jpg">
+                </a>
+            </td>
+            <td>
+                <a href="https://dmkpress.com/catalog/computer/data/978-5-97060-673-5/">
+                    Шай Шалев-Шварц, Шай Бен-Давид
+                    <br/>
+                    Идеи машинного обучения: от теории к алгоритмам
+                </a> (глава 23 - Понижение размерности)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.cambridge.org/academic/subjects/computer-science/pattern-recognition-and-machine-learning/foundations-data-science">
+                    <img style="width: 70px; height: auto;" src="https://assets.cambridge.org/97811084/85067/cover/9781108485067.jpg">
+                </a>
+            </td>
+            <td>
+                <a href="https://www.cambridge.org/academic/subjects/computer-science/pattern-recognition-and-machine-learning/foundations-data-science">
+                    Avrim Blum, John Hopcroft, Ravindran Kannan
+                    <br/>
+                    Foundations of Data Science
+                </a> (раздел 2.7, страницы 25-27; расширенно 25-39)
+                <br/>
+                (ознакомиться: https://www.cs.cornell.edu/jeh/book.pdf)
+            </td>
+        </tr>
+        <tr>
             <td rowspan="5" colspan="2">
                 Локально-чувствительное хеширование
                 <br/>
