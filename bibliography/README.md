@@ -240,7 +240,7 @@
                     -
                     <a href="https://arxiv.org/pdf/1607.03390.pdf">Ньютон - метод для оценки схожести</a>
                     <br/>
-                    <a href="https://ieeexplore.ieee.org/document/7468484">Анализ больших данных WBS</a>, <a href="https://vijayaphanindra.medium.com/a-work-breakdown-structure-wbs-for-big-data-analytics-projects-part-1-db4c2a8179fd">графический интерфейс</a>
+                    <a href="https://ieeexplore.ieee.org/document/7468484">Анализ больших данных WBS</a>, <a href="https://vijayaphanindra.medium.com/a-work-breakdown-structure-wbs-for-big-data-analytics-projects-part-1-db4c2a8179fd">графический редактор</a>
                     <br/>
                     <a href="https://losst.ru/rabota-s-powershell-linux">Linux - применение PowerShell</a> <a href="https://www.andreasbijl.com/handling-big-data-with-powershell/">в больших данных</a>
                 </details>
