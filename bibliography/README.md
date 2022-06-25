@@ -169,7 +169,7 @@
             </td>
             <td>
                 <a href="https://spark.apache.org/docs/latest/ml-features#locality-sensitive-hashing">
-                    Spark Programming Guides. MLlib
+                    Spark Programming Guides. <b>MLlib</b>
                     <br/>
                     Locality Sensitive Hashing
                 </a>
