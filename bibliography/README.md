@@ -61,6 +61,23 @@
             </td>
         </tr>
         <tr>
+            <td>
+                Форматы хранения больших данных и Spark
+            </td>
+            <td>
+                <a href="https://dmkpress.com/catalog/computer/data/978-5-97060-879-1/">
+                    <img style="width: 70px; height: auto;" src="https://dmkpress.com/images/cms/thumbs/a5b0aeaa3fa7d6e58d75710c18673bd7ec6d5f6d/978-5-97060-879-1_270_369_jpg__100.jpg">
+                </a>
+            </td>
+            <td>
+                <a href="https://dmkpress.com/catalog/computer/data/978-5-97060-879-1/">
+                    Перрен Ж.-Ж.
+                    <br/>
+                    Spark в действии
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td rowspan="3">
                 PySpark:
                 <br/>
