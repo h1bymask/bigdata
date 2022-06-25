@@ -38,7 +38,7 @@
             </td>
             <td>
                 <a href="https://www.piter.com/collection/kompyutery-i-internet/product/python-iskusstvennyy-intellekt-bolshie-dannye-i-oblachnye-vychisleniya">
-                    Дейтел П., Дейтел Х.
+                    Пол Дж. Дейтел, Харви М. Дейтел
                     <br/>
                     Python: Искусственный интеллект, большие данные и облачные вычисления
                 </a>
