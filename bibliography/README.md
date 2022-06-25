@@ -120,7 +120,7 @@
             </td>
         </tr>
         <tr>
-            <td>---//--- + BucketedRandomProjectionLSH</td>
+            <td rowspan="2">---//--- + BucketedRandomProjectionLSH</td>
             <td>
                 <a href="https://www.oreilly.com/library/view/advanced-analytics-with/9781098103644/">
                     <img style="width: 70px; height: auto;" src="https://learning.oreilly.com/library/cover/9781098103644/250w/">
@@ -131,6 +131,16 @@
                     Akash Tandon, Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills
                     <br/>
                     Advanced Analytics with PySpark
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <a href="https://spark.apache.org/docs/latest/ml-features#locality-sensitive-hashing">
+                    Spark Programming Guides. MLlib: applying machine learning algorithms
+                    <br/>
+                    Locality Sensitive Hashing
                 </a>
             </td>
         </tr>
