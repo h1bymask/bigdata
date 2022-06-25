@@ -162,7 +162,11 @@
             </td>
         </tr>
         <tr>
-            <td></td>
+            <td>
+                <a href="https://spark.apache.org/docs/latest/ml-features#locality-sensitive-hashing">
+                    <img style="width: 70px; height: auto;" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Cib-apache-spark_%28CoreUI_Icons_v1.0.0%29.svg">
+                </a>
+            </td>
             <td>
                 <a href="https://spark.apache.org/docs/latest/ml-features#locality-sensitive-hashing">
                     Spark Programming Guides. MLlib
