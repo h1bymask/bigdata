@@ -240,7 +240,7 @@
             <td colspan="2"></td>
             <td style="height: 4em;">
                 <details><summary>Лишние вопросы</summary>
-                    <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/jlms/s1-9.2.126">Приближение дробномерных пространств</a>
+                    <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/jlms/s1-9.2.126">Приближение дробно-мерных пространств</a>
                     <br/>
                     <a href="https://www.ibm.com/analytics/us/en/Analytics-BigData.pdf">Большие данные Больцано</a>
                     -
