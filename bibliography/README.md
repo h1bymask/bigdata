@@ -164,7 +164,7 @@
         <tr>
             <td>
                 <a href="https://spark.apache.org/docs/latest/ml-features#locality-sensitive-hashing">
-                    <img style="width: 70px; height: auto;" src="data:image/gif;base64,R0lGODdhRgBGAMIIABgXFd0NAAdX8Pc9AJOcsOOiXHTp5Pr8+SwAAAAARgBGAAAD/ni63P4wykmrvTjrzbv/YCiOZGmeaKqubOu+G1EMdGDfxSEXBAwVs9yMRiwKi7gXsDg4Mo2HwJMo7Z2W0xxhSuxJuTWFVTQEK4ASWe2L1NlyHnSZBoR3ll8vNbCpw+l2JAV8UUw2GH5wgSkEbEiLD4loPoOONWMOkpAvjU8Bm5I+P1I3YQyJohM2TKd+KJ93jg11KJUfbGebJQM3tzQHtCuwUjO9GVLAkyqwg01vG5/Ktbw6DLAcwSaV19YDcbohvISY1HETBAAAmBjii4Mq6OnqdwTr3Bb1FuliH/P1eBjy6QPgQB6mePPE9EDXQ902cAwM1FuXZp+YdPGsIMSozwMjQ4vJKBiQuEGeApD7GC7YZxEhhpEGPHgkuADdAZAdb1qRR7MCTBAYe+bEyXKnuoQSfnJQ+REpS6FBVzYU6gBmzA4bCfI0edKgOpsnF+KMODJExq5nGXit1zOhSrJlTyAdYfWqibdw6+pVWtNqKp98D9Slu7ew4cEN6lJ8eThm48d29YoyLBLxX8ZWF7+QDGHkRIGXF+wlS0CAaQGaQz+QeBp1atWJW6OGfUH2a9oNWt/G3WA379/AgwsfTry48ePIkytfDjvfOtDMoztIAAA7">
+                    <img style="width: 70px; height: auto;" src="data:image/gif;base64,R0lGODdhRgBGAMIIABgXFd0NAAdX8Pc9AJOcsOOiXHTp5Pr8+SwAAAAARgBGAAAD/ni63P4wykmrvTjrzbv/YCiOZGmeaKqubOu+G1EMdGDfxSEXBAwVs9yMRiwKi7gXsDg4Mo2HwJMo7Z2W0xxhSuxJuTWFVTQEK4ASWe2L1NlyHnSZBoR3ll8vNbCpw+l2JAV8UUw2GH5wgSkEbEiLD4loPoOONWMOkpAvjU8Bm5I+P1I3YQyJohM2TKd+KJ93jg11KJUfbGebJQM3tzQHtCuwUjO9GVLAkyqwg01vG5/Ktbw6DLAcwSaV19YDcbohvISY1HETBAAAmBjii4Mq6OnqdwTr3Bb1FuliH/P1eBjy6QPgQB6mePPE9EDXQ902cAwM1FuXZp+YdPGsIMSozwMjQ4vJKBiQuEGeApD7GC7YZxEhhpEGPHgkuADdAZAdb1qRR7MCTBAYe+bEyXKnuoQSfnJQ+REpS6FBVzYU6gBmzA4bCfI0edKgOpsnF+KMODJExq5nGXit1zOhSrJlTyAdYfWqibdw6+pVWtNqKp98D9Slu7ew4cEN6lJ8eThm48d29YoyLBLxX8ZWF7+QDGHkRIGXF+wlS0CAaQGaQz+QeBp1atWJW6OGfUH2a9oNWt/G3WA379/AgwsfTry48ePIkytfDjvfOtDMoztIAAA7%3D%3D">
                 </a>
             </td>
             <td>
