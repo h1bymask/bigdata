@@ -164,7 +164,7 @@
         <tr>
             <td>
                 <a href="https://spark.apache.org/docs/latest/ml-features#locality-sensitive-hashing">
-                    <img style="width: 70px; height: auto;" onload="alert(this)+this.src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGBAMAAACDAP+3AAAAGFBMVEUYFxXdDQAHV/D3PQCTnLDjolx06eT6/PlbWTtgAAAB2UlEQVRIx+2VwWqEMBCG5xDwHOyy96UvIGHvaXGbs9iQeynxumUT8/qdiatGzeKlUAoNq6zj5//PJHGEsD/gn/kNxrWCc24u7w8ZffaChmlFxU2O0UKMTEnnUq0Z32L47CKjIiOObsW0MRx0vLgITszLIWU8piC0SXOrSI7PjNfmdjarkpuAlnxitDZ+Oy+O0jrcGa21yU2ep6yeIuORyc8wKVUGBplHy+BLXlYQZR6v1RcqQUx4fSMJNJHxG5nmmFyUyGSMKp6KCvAZ5vB1TrAyz/iyOcxCkJm99qgWaW8Zz0miTPfhxurGgwq3tDIYZCRLqkIdf9zsZweg5tg7/p9SdurOXAuXPHdVta7GizpMDB4o5YDhg1KxZnwtPuvZC3+Yk0RPyaQsxtm3at7PUKAUOIaKgORoZLtkz1+ZxOKQcwULMDK9Xbw7cGeuxEiVIgPjmGOYMRDDisCoBEK6lAEoAA90kTUyDuZkJi9JBozqj0wgM2s3PYGtls1OMhPjWIwPA+++zUiuj1Gu/ew0ML1djC5GkjWGAehSiJAu2+siPOZr9/qqXTgtmNHB1rV62Hv76GFfT887PbxHRO0wH6eT2vsWnNZOWUbtMu7/e/p3Gadwgeuf8voGh9QUIaEALgwAAAAASUVORK5CYII%3D';">
+                    <img style="width: 70px; height: auto;" src="https://icannhas.com/media/images/services/ic-apachespark.png">
                 </a>
             </td>
             <td>
