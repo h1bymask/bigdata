@@ -265,15 +265,15 @@
                 обучения: от теории к алгоритмам")
             </td>
             <td style="height: 4em;">
-                <a href="http://people.ee.duke.edu/~lcarin/p93.pdf">
-                    Dimitris Achlioptas. Database-friendly Random Projections
+                <a href="https://en.wikipedia.org/wiki/Random_projection">
+                    Wikipedia. Random projection
                 </a>
             </td>
         </tr>
         <tr>
             <td style="height: 4em;">
-                <a href="https://en.wikipedia.org/wiki/Random_projection">
-                    Wikipedia. Random projection
+                <a href="http://people.ee.duke.edu/~lcarin/p93.pdf">
+                    Dimitris Achlioptas. Database-friendly Random Projections
                 </a>
             </td>
         </tr>
