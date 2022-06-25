@@ -266,7 +266,7 @@
             </td>
             <td style="height: 4em;">
                 <a href="http://people.ee.duke.edu/~lcarin/p93.pdf">
-                    Dimitris Achlioptas - Database-friendly Random Projections
+                    Dimitris Achlioptas. Database-friendly Random Projections
                 </a>
             </td>
         </tr>
