@@ -209,5 +209,21 @@
                 Формальная постановка задачи поиска приближенного ближайшего соседа и Локально-чувствительное хэширование (LSH) - страницы 80-84
             </td>
         </tr>
+        <tr>
+            <td colspan="2"></td>
+            <td style="height: 4em;">
+                <details><summary>Лишние вопросы</summary>
+                    <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/jlms/s1-9.2.126">Приближение дробномерных пространств</a>
+                    <br/>
+                    <a href="https://www.ibm.com/analytics/us/en/Analytics-BigData.pdf">Больцано - большие данные</a>
+                    <br/>
+                    <a href="https://arxiv.org/pdf/1607.03390.pdf">Метод Ньютона для оценки схожести в анализе больших данных</a>
+                    <br/>
+                    <a href="https://ieeexplore.ieee.org/document/7468484">Анализ больших данных WBS</a>, <a href="https://vijayaphanindra.medium.com/a-work-breakdown-structure-wbs-for-big-data-analytics-projects-part-1-db4c2a8179fd">графический интерфейс</a>
+                    <br/>
+                    <a href="https://losst.ru/rabota-s-powershell-linux">Linux - применение PowerShell</a> &nbsp; <a href="https://www.andreasbijl.com/handling-big-data-with-powershell/">в больших данных</a>
+                </details>
+            </td>
+        </tr>
     </tbody>
 </table>
