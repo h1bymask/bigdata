@@ -169,14 +169,14 @@
             </td>
             <td>
                 <a href="https://spark.apache.org/docs/latest/ml-features#locality-sensitive-hashing">
-                    Spark Programming Guides. <b>MLlib</b>
+                    Spark Programming Guides. MLlib
                     <br/>
                     Locality Sensitive Hashing
                 </a>
             </td>
         </tr>
         <tr>
-            <td rowspan="2">
+            <td rowspan="4">
                 Снижение размерности
                 <br/>
                 и случайная проекция
@@ -192,6 +192,38 @@
                     <br/>
                     <b>Идеи машинного обучения: от теории к алгоритмам</b>
                 </a> (глава 23 - Понижение размерности)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.williamspublishing.com/Books/978-5-907144-99-6.html">
+                    <img style="width: 70px; height: auto;" src="https://www.williamspublishing.com/Books/thumb/978-5-907144-99-6.jpg">
+                </a>
+            </td>
+            <td>
+                <a href="https://www.williamspublishing.com/Books/978-5-907144-99-6.html">
+                    Анкур А. Пател
+                    <br/>
+                    Прикладное машинное обучение без учителя с использованием Python
+                </a>
+                <br/>
+                (раздел "Случайное проецирование" главы 3 "Снижение размерности")
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.oreilly.com/library/view/hands-on-unsupervised-learning/9781492035633/">
+                    <img style="width: 70px; height: auto;" src="https://learning.oreilly.com/library/cover/9781492035633/250w/">
+                </a>
+            </td>
+            <td>
+                <a href="https://www.oreilly.com/library/view/hands-on-unsupervised-learning/9781492035633/">
+                    Ankur A. Patel
+                    <br/>
+                    Hands-On Unsupervised Learning Using Python
+                </a>
+                <br/>
+                (раздел "Random Projection" главы 3 "Dimensionality Reduction Algorithms"; в 2022 в сети доступен открытый ePUB)
             </td>
         </tr>
         <tr>
