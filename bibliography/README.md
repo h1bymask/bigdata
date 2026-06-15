@@ -27,7 +27,7 @@
                     Работа с BigData в облаках. Обработка и хранение данных с примерами
                 </a>
                 <br/>
-                (в 2022 в сети доступен открытый PDF)
+                (в 2020-х в сети доступен открытый PDF)
             </td>
         </tr>
         <tr>
@@ -57,7 +57,7 @@
                     Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and The Cloud
                 </a>
                 <br/>
-                (в 2022 в сети доступен открытый PDF)
+                (в 2020-х в сети доступен открытый PDF)
             </td>
         </tr>
         <tr>
@@ -95,7 +95,9 @@
                 <br/>
                 хеширования, применение
                 <br/>
-                MinHashLSH
+                MinHashLSH,
+                <br/>
+                TF-IDF, PageRank
             </td>
             <td>
                 <a href="https://www.piter.com/product/effektivnyy-spark-masshtabirovanie-i-optimizatsiya">
@@ -225,7 +227,7 @@
                     Hands-On Unsupervised Learning Using Python
                 </a>
                 <br/>
-                (раздел "Random Projection" главы 3 "Dimensionality Reduction Algorithms"; в 2022 в сети доступен открытый ePUB)
+                (раздел "Random Projection" главы 3 "Dimensionality Reduction Algorithms"; в 2020-х в сети доступен открытый ePUB)
             </td>
         </tr>
         <tr>
